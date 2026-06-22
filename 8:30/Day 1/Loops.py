@@ -26,8 +26,7 @@ for i in range(5):
     if i == 3:
         break  # Emergency exit! Stops the whole loop right now
     print(i)   # This will only print 0, 1, and 2
-
-
+  
 for i in range(5):
     if i == 3:
         continue  # Skip button! Jumps straight to the next number
